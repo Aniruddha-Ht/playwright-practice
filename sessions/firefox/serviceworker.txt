@@ -1,0 +1,14 @@
+10
+
+https://www.saucedemo.com/
+https://www.saucedemo.com/service-worker.js
+true
+{d711e512-9045-47f6-b22e-630e6f9cda71}
+0
+1761658859203680
+1761658859205055
+1761658859043421
+0
+true
+0
+#
